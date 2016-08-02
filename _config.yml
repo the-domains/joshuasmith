@@ -1,6 +1,6 @@
 name: JOSHUASMITH
 favicon: null
-layout_spectrum: 0.93725
+layout_spectrum: 0.51187
 typography_spectrum: 0.49415
 title: Get to know me.
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0
+  brandStrength: 0.4375
   lightness: 0.27119072154164314
   saturation: 0.5535993981175125
   rhythmicContrast: 0.2818873175419867
