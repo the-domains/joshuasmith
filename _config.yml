@@ -1,0 +1,28 @@
+name: JOSHUASMITH
+favicon: null
+layout_spectrum: 0.7799683674238622
+typography_spectrum: 0.09021562244743109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7001909231767058
+  lightness: 0.27119072154164314
+  saturation: 0.5535993981175125
+  rhythmicContrast: 0.2818873175419867
+purpose: []
