@@ -1,7 +1,7 @@
 name: JOSHUASMITH
 favicon: null
-layout_spectrum: 0.7799683674238622
-typography_spectrum: 0.09021562244743109
+layout_spectrum: 0.93725
+typography_spectrum: 0.49415
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7001909231767058
+  brandStrength: 0
   lightness: 0.27119072154164314
   saturation: 0.5535993981175125
   rhythmicContrast: 0.2818873175419867
